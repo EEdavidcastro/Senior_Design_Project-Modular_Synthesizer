@@ -16,7 +16,7 @@ Note about uploaded files in the circuit design:
   - .ms14 files are CAD files done in multisim software to show simulation
 
 Note on file labeling mistake:
--Current Source file has files inside named VCF, ignore the title/label of it being VCF, they are the current source files
+- Current Source file has files inside named VCF, ignore the title/label of it being VCF, they are the current source files
 
 
 
