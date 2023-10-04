@@ -9,6 +9,10 @@ Report: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/blob/m
 
 
 
+Presentation: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/blob/main/485Final%20Presentation_DavidCastro_EricBurgess.pdf
+
+
+
 Note on file labeling mistake:
 Current Source file has files inside named VCF, ignore the title/labe of it being VCF, they are the current source files
 
