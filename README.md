@@ -7,14 +7,14 @@ The report and virtual poster for a summary of the probject are also posted on t
 
 Report: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/blob/main/485Final%20Report_DavidCastro_EricBurgess.pdf
 
-
-
 Presentation: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/blob/main/485Final%20Presentation_DavidCastro_EricBurgess.pdf
+
+Virtual Poster: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/blob/main/485Final%20Project%20Poster%20Outline_David%20Castro%26EricBurgess.pdf
 
 
 
 Note on file labeling mistake:
-Current Source file has files inside named VCF, ignore the title/labe of it being VCF, they are the current source files
+Current Source file has files inside named VCF, ignore the title/label of it being VCF, they are the current source files
 
 
 
