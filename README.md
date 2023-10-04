@@ -11,8 +11,7 @@ Presentation: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/
 
 Virtual Poster: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/blob/main/485Final%20Project%20Poster%20Outline_David%20Castro%26EricBurgess.pdf
 
-Note about uploaded files:
-files included are the:
+Note about uploaded files in the circuit design:
   - KiCad files for pcb design
   - .ms14 files are CAD files done in multisim software to show simulation
 
