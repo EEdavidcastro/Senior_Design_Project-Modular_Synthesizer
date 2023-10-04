@@ -17,6 +17,12 @@ Note on file labeling mistake:
 
 
 
+Note about Midi Design: <br>
+  The current MIDI instrument is a modified version of Elkayem’s midi2cv design done by a youtuber named
+“Benny Bones.” In references, the github repository that provides the gerber files and code to run
+the MIDI is provided.
+
+
 
 
 
