@@ -12,14 +12,14 @@ Note about uploaded files in the circuit design:
   - KiCad files for pcb design
   - .ms14 files are CAD files done in multisim software to show simulation
 
+Note about MIDI Design: <br>
+ - The current MIDI instrument is a modified version of Elkayem’s midi2cv design done by a youtuber named
+“Benny Bones.” The MIDI gerber files and code to run the MIDI is provided in this respository for ease. This was not designed by us due to time contraints.
+
 Note on file labeling mistake:
 - Current Source file has files inside named VCF, ignore the title/label of it being VCF, they are the current source files
 
 
-
-Note about MIDI Design: <br>
- - The current MIDI instrument is a modified version of Elkayem’s midi2cv design done by a youtuber named
-“Benny Bones.” The MIDI gerber files and code to run the MIDI is provided in this respository for ease. This was not designed by us due to time contraints.
 
 
 
