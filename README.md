@@ -11,7 +11,10 @@ Presentation: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/
 
 Virtual Poster: https://github.com/EEdavidcastro/EE485-SeniorDesign-Modular_Synth/blob/main/485Final%20Project%20Poster%20Outline_David%20Castro%26EricBurgess.pdf
 
-
+Note about uploaded files:
+files included are the:
+  - KiCad files for pcb design
+  - .ms14 files are CAD files done in multisim software to show simulation
 
 Note on file labeling mistake:
 Current Source file has files inside named VCF, ignore the title/label of it being VCF, they are the current source files
