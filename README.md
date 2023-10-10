@@ -10,7 +10,7 @@ The report, presentation, and virtual poster for a summary of the probject are a
 
 Note about uploaded files in the circuit design:
   - KiCad files for pcb design
-  - .ms14 files are CAD files done in multisim software to show simulation
+  - .ms14 files are CAD files done in multisim software to show simulation of a small portion of the circuit (important part)
 
 Note about MIDI Design: <br>
  - The current MIDI instrument is a modified version of Elkayem’s midi2cv design done by a youtuber named
